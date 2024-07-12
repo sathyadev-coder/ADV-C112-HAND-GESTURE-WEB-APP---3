@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    }
+    #div_1{
+        
+        float: left;
+        
+    }
+    #div_2{
+         
+         float: right;
+    }
+    
